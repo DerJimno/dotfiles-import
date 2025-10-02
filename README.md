@@ -3,5 +3,5 @@ A simple script to get dotfiles on a new system install (inspired by [durdn](htt
 
 run with:
 ```
-sh <(curl -Lks https://raw.githubusercontent.com/DerJimno/cfg-install/main/install) 
+sh <(curl -Lks https://raw.githubusercontent.com/DerJimno/cfg-install/main/install-w) 
 ```
